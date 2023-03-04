@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">INKI678</string>
+    <string name="input_label">Insert Tag</string>
+    <string name="insert_button_label">SAVE</string>
+</resources>
